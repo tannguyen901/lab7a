@@ -1,0 +1,60 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: tnguyen291@bcit.ca
+tags:
+  - name: program
+    description: Course description
+  - name: student
+    description: Student description
+paths:
+  /stats:
+    get:
+      tags:
+        - program
+      summary: creates a new CIT course
+      operationId: app.get_stats
+      description: get stats
+      responses:
+        '200':
+          description: Course added to program
+          content:
+            application/json:
+              schema:
+                items:
+                  type: object
+                  $ref: '#/components/schemas/stats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    stats:
+      type: object
+      required:
+        - most_popular_cit_class
+        - student_count
+        - class_count
+        - num_students_in_class
+      properties:
+        most_popular_cit_class:
+          type: string
+          example: '3855-Service Based Architecture'
+        student_count:
+          type: integer
+          example: 150
+        class_count:
+          type: integer
+          example: 22
+        num_students_in_class:
+          type: integer
+          example: 22

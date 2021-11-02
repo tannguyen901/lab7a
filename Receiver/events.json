@@ -1,0 +1,74 @@
+[
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "start_date": "2016-08-29",
+    "student_age": 22.0,
+    "student_id": "A00908650",
+    "student_name": "Tan Nguyen"
+  },
+  {
+    "start_date": "2016-08-29",
+    "student_age": 22.0,
+    "student_id": "A00908650",
+    "student_name": "Tan Nguyen"
+  },
+  {
+    "start_date": "2016-08-29",
+    "student_age": 22.0,
+    "student_id": "A00908650",
+    "student_name": "Tan Nguyen"
+  },
+  {
+    "start_date": "2016-08-29",
+    "student_age": 22.0,
+    "student_id": "A00908650",
+    "student_name": "Tan Nguyen"
+  },
+  {
+    "start_date": "2016-08-29",
+    "student_age": 22.0,
+    "student_id": "A00908650",
+    "student_name": "Tan Nguyen"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  },
+  {
+    "instructor": "Mike Mulder",
+    "max_class_size": 25.0,
+    "class_id": "202130",
+    "class_name": "Enterprise System Integration"
+  }
+]
