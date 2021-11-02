@@ -1,0 +1,138 @@
+openapi: 3.0.0
+info:
+  description: This is to post new students or new classes to the CIT program
+  version: "1.0.0"
+  title: Classes and CIT Students
+  contact:
+    email: tnguyen291@bcit.ca
+tags:
+  - name: program
+    description: Course description
+  - name: student
+    description: Student description
+paths:
+  /programs/cit:
+    get:
+      tags:
+        - program
+      summary: gets CIT course
+      operationId: app.get_cit_course
+      description: get cit course after it has been created
+      parameters:
+        - name: index
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list CIT courses
+          content:
+            application/json:
+              schema:
+                items:
+                  type: object
+                  $ref: '#/components/schemas/cit'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /programs/student:
+    get:
+      tags:
+        - student
+      summary: gets newe studnet info
+      operationId: app.get_students
+      description: Gets student information after timestamp
+      parameters:
+        - name: index
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list students
+          content:
+            application/json:
+              schema:
+                items:
+                  type: object
+                  $ref: '#/components/schemas/student'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    cit:
+      type: object
+      required:
+        - class_id
+        - class_name
+        - instructor
+        - max_class_size
+      properties:
+        class_id:
+          type: string
+          example: '202130'
+        class_name:
+          type: string
+          example: 'Enterprise System Integration'
+        instructor:
+          type: string
+          example: 'Mike Mulder'
+        max_class_size:
+          type: number
+          example: 25
+    student:
+      required:
+        - student_id
+        - student_name
+        - student_age
+        - start_date
+      properties:
+        student_id:
+          type: string
+          example: '224224'
+        student_name:
+          type: string
+          example: 'Tan Nguyen'
+        student_age:
+          type: number
+          format: url
+          example: 22
+        start_date:
+          type: string
+          example: '2016-08-29'
+      type: object
