@@ -1,0 +1,13 @@
+version: 1 
+post_cit: 
+  url: http://localhost:8090/programs/cit
+post_student: 
+  url: http://localhost:8090/programs/student 
+get_cit:
+  url: http://0.0.0.0:8090/programs/cit
+get_student:
+  url: http://localhost:8090/programs/student
+events: 
+  hostname: tanlab6a.eastus.cloudapp.azure.com
+  port: 9092 
+  topic: events

@@ -1,0 +1,152 @@
+openapi: 3.0.0
+info:
+  description: This is to post new students or new classes to the CIT program
+  version: "1.0.0"
+  title: Classes and CIT Students
+  contact:
+    email: tnguyen291@bcit.ca
+tags:
+  - name: program
+    description: Course description
+  - name: student
+    description: Student description
+paths:
+  /programs/cit:
+    get:
+      tags:
+        - program
+      summary: gets CIT course
+      operationId: app.get_cit_course
+      description: get cit course after it has been created
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully returned a list CIT courses
+          content:
+            application/json:
+              schema:
+                items:
+                  type: array
+                  $ref: '#/components/schemas/cit'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+    # post:
+    #   tags:
+    #     - program
+    #   summary: creates a new CIT course
+    #   operationId: app.add_cit_course
+    #   description: Adds a new course to the CIT program
+    #   responses:
+    #     '201':
+    #       description: Course added to program
+    #     '400':
+    #       description: Bad input parameter
+    #   requestBody:  
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: '#/components/schemas/cit'
+    #     description: Adds a program
+  /programs/student:
+    get:
+      tags:
+        - student
+      summary: gets newe studnet info
+      operationId: app.get_students
+      description: Gets student information after timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successfully returned a list students
+          content:
+            application/json:
+              schema:
+                items:
+                  type: array
+                  $ref: '#/components/schemas/student'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+    # post:
+    #   tags:
+    #     - student
+    #   summary: adds a new student to course
+    #   operationId: app.add_student_info
+    #   description: Adds a student to the CIT course
+    #   responses:
+    #     '201':
+    #       description: Student added to CIT
+    #     '400':
+    #       description: Bad input parameter
+    #   requestBody:
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: '#/components/schemas/student'
+    #     description: Reading students to add to CIT
+components:
+  schemas:
+    cit:
+      type: object
+      required:
+        - class_id
+        - class_name
+        - instructor
+        - max_class_size
+      properties:
+        class_id:
+          type: string
+          example: '202130'
+        class_name:
+          type: string
+          example: 'Enterprise System Integration'
+        instructor:
+          type: string
+          example: 'Mike Mulder'
+        max_class_size:
+          type: number
+          example: 25
+    student:
+      required:
+        - student_id
+        - student_name
+        - student_age
+        - start_date
+      properties:
+        student_id:
+          type: string
+          example: '224224'
+        student_name:
+          type: string
+          example: 'Tan Nguyen'
+        student_age:
+          type: number
+          format: url
+          example: 22
+        start_date:
+          type: string
+          example: '2016-08-29'
+      type: object
