@@ -1,8 +1,6 @@
 from datetime import datetime
 import connexion
 from connexion import NoContent
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 import yaml
 import logging
 import logging.config
@@ -93,5 +91,5 @@ app.add_api("openapi.yml",
 
 
 if __name__ == "__main__":
-    app.run(port=8200, debug=True)
+    app.run(port=8110, debug=True)
 
