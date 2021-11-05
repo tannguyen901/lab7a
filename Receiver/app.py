@@ -62,8 +62,6 @@ def add_cit_course(body):
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
     return NoContent, 200 #! You will need to hard-code your status code to 201 since you will no longer get it from the response of the requests.post call
-
-
 # def add_student_info(body):
 #     uniq_id = body['student_id']
 #     logger.info("Received logger for student, getting unique id: {}".format(uniq_id))
@@ -93,7 +91,6 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", 
             strict_validation=True, 
             validate_responses=True)
-
 
 if __name__ == "__main__":
     app.run(port=8080)

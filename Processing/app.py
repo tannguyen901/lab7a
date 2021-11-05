@@ -16,6 +16,7 @@ logger = logging.getLogger('basicLogger')
 
 
 def get_stats():
+
     logger.info(f'Received event get_stats request {uuid.uuid4}')
     try:
         with open(app_config['datastore']['filename'], 'r') as file:
@@ -26,7 +27,6 @@ def get_stats():
     except:
         logger.error("Statistic file not found")
         return "statistics dne", 404
-
 
 def populate_stats():
     logger.info("Start Periodic Processing")
@@ -81,9 +81,7 @@ def populate_stats():
 
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)
-    sched.add_job(populate_stats, 
-                'interval', 
-                seconds=app_config['scheduler']['period_sec'])
+    sched.add_job(populate_stats, 'interval', seconds=app_config['scheduler']['period_sec'])
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
