@@ -94,4 +94,8 @@ app.add_api("openapi.yml",
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(port=8110, debug=True)
+=======
+    app.run(port=8110, debug=True)
+>>>>>>> 7076ae5e4e3ce8220fd03bc17602260fd1ae1055
