@@ -4,7 +4,7 @@ from connexion import NoContent
 import json
 import requests, yaml, logging, logging.config, uuid, datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-# from flask_cors import CORS, cross_origin
+from flask_cors import CORS, cross_origin
 
 with open ('app_conf.yml', 'r') as f:
     app_config= yaml.safe_load(f.read())
@@ -66,7 +66,7 @@ def populate_stats():
     if len(class_list) > 0 :
         most_popular_class = max(class_list)
 
-        
+
     for student in student_data:
         if len(student['student_name']) >0:
             num_students_in_class += 1
@@ -85,8 +85,8 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-# CORS(app.app)
-# app.app.config['CORS_HEADERS'] = 'Content-Type'
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml", 
             strict_validation=True, 
             validate_responses=True)
