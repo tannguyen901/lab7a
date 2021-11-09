@@ -7,7 +7,6 @@ export default function AppStats() {
     const [error, setError] = useState(null)
     console.log(stats)
 	const getStats = () => {
-	
         fetch(`http://tanlab6a.eastus.cloudapp.azure.com:8100/stats`)
             .then(res => res.json())
             .then((result)=>{
@@ -19,6 +18,7 @@ export default function AppStats() {
                 setIsLoaded(true);
             })
     }
+    
     useEffect(() => {
 		const interval = setInterval(() => getStats(), 2000); // Update every 2 seconds
 		return() => clearInterval(interval);
