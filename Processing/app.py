@@ -4,7 +4,7 @@ from connexion import NoContent
 import json
 import requests, yaml, logging, logging.config, uuid, datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-from flask_cors import CORS, cross_orig
+from flask_cors import CORS, cross_origin
 
 with open ('app_conf.yml', 'r') as f:
     app_config= yaml.safe_load(f.read())
