@@ -4,7 +4,6 @@ from connexion import NoContent
 import json
 import requests, yaml, logging, logging.config, uuid, datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-from flask_cors import CORS, cross_origin
 
 with open ('app_conf.yml', 'r') as f:
     app_config= yaml.safe_load(f.read())
@@ -17,7 +16,6 @@ logger = logging.getLogger('basicLogger')
 
 
 def get_stats():
-
     logger.info(f'Received event get_stats request {uuid.uuid4}')
     try:
         with open(app_config['datastore']['filename'], 'r') as file:
@@ -28,6 +26,7 @@ def get_stats():
     except:
         logger.error("Statistic file not found")
         return "statistics dne", 404
+
 
 def populate_stats():
     logger.info("Start Periodic Processing")
@@ -54,18 +53,21 @@ def populate_stats():
     cit_data = json.loads(cit_req.content)
 
 
-    class_list = []
-    most_popular_class = ""
+    class_type_list = []
+    most_class_type = ""
     student_len = len(student_data) + stats['student_count']
     cit_len = len(cit_data) + stats['class_count']
     num_students_in_class = stats['num_students_in_class']
     
 
     for cit in cit_data:
-        class_list.append(cit['class_name'])
-    if len(class_list) > 0 :
-        most_popular_class = max(class_list)
-
+        print(type(cit))
+        class_type_list.append(cit['class_name'])
+    most_class_type = max(class_type_list)
+    if len(most_class_type) > 0 :
+        most_class_type = max(class_type_list)
+    else:
+        most_class_type = 0
 
     for student in student_data:
         if len(student['student_name']) >0:
@@ -73,7 +75,7 @@ def populate_stats():
 
     current_date = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%dT%H:%M:%SZ")
 
-    data_obj = {"most_popular_cit_class": most_popular_class, "student_count": student_len,"class_count": cit_len,"num_students_in_class": num_students_in_class,"last_updated": current_date}
+    data_obj = {"most_popular_cit_class": most_class_type, "student_count": student_len,"class_count": cit_len,"num_students_in_class": num_students_in_class,"last_updated": current_date}
     with open(app_config['datastore']['filename'],'w') as file:
         file.write(json.dumps(data_obj))
     logger.debug("Successfully saved the new stats: {}".format(data_obj))
@@ -85,8 +87,6 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-CORS(app.app)
-app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml", 
             strict_validation=True, 
             validate_responses=True)

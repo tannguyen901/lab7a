@@ -5,7 +5,7 @@ export default function AppStats() {
     const [isLoaded, setIsLoaded] = useState(false);
     const [stats, setStats] = useState({});
     const [error, setError] = useState(null)
-
+    console.log(stats)
 	const getStats = () => {
 	
         fetch(`http://tanlab6a.eastus.cloudapp.azure.com:8100/stats`)
