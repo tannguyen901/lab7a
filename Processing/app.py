@@ -64,7 +64,8 @@ def populate_stats():
     for cit in cit_data:
         print(type(cit))
         class_type_list.append(cit['class_name'])
-    most_class_type = max(class_type_list)
+    if len(class_type_list) > 0:
+        most_class_type = max(class_type_list)
     if len(most_class_type) > 0 :
         most_class_type = max(class_type_list)
     else:
