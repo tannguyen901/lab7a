@@ -35,21 +35,18 @@ export default function AppStats() {
                 <table className={"StatsTable"}>
 					<tbody>
 						<tr>
-							<th>Blood Pressure</th>
-							<th>Heart Rate</th>
+							<th>Students</th>
+							<th>CIT course</th>
 						</tr>
 						<tr>
-							<td># BP: {stats['student_count']}</td>
-							<td># HR: {stats['class_count']}</td>
+							<td># student: {stats['student_count']}</td>
+							<td># class: {stats['class_count']}</td>
 						</tr>
 						<tr>
 							<td colspan="2">Maximum number of students: {stats['num_students_in_class']}</td>
 						</tr>
 						<tr>
 							<td colspan="2">Most Popular CIT course: {stats['most_popular_cit_class']}</td>
-						</tr>
-						<tr>
-							<td colspan="2">Max HR: {stats['max_bp_sys_reading']}</td>
 						</tr>
 					</tbody>
                 </table>
