@@ -9,7 +9,7 @@ import json
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
-# from flask_cors import CORS, cross_origin
+from flask_cors import CORS, cross_origin
 
 
 logger = logging.getLogger('basicLogger')
@@ -86,8 +86,8 @@ def get_cit_course(index):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-# CORS(app.app)
-# app.app.config['CORS_HEADERS'] = 'Content-Type'
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yml", 
             strict_validation=True, 
             validate_responses=True)
