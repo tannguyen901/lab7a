@@ -11897,3 +11897,1058 @@
 2021-11-05 13:54:51,945 -basicLogger -INFO -Successfully received student info
 2021-11-05 13:54:51,945 -basicLogger -INFO -Successfully received data on cit information.
 2021-11-05 13:54:51,946 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 2432, 'class_count': 3315, 'num_students_in_class': 2432, 'last_updated': '2021-11-05T13:54:51Z'}
+2021-11-08 16:47:18,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:23,405 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:29,073 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:29,074 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:29,080 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 308, 'class_count': 310, 'num_students_in_class': 308, 'last_updated': '2021-11-08T16:47:29Z'}
+2021-11-08 16:47:33,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:37,925 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:37,926 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:37,926 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 313, 'class_count': 312, 'num_students_in_class': 313, 'last_updated': '2021-11-08T16:47:37Z'}
+2021-11-08 16:47:38,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:42,921 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:42,922 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:42,922 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 313, 'class_count': 317, 'num_students_in_class': 313, 'last_updated': '2021-11-08T16:47:42Z'}
+2021-11-08 16:47:43,400 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:47,928 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:47,929 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:47,930 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 318, 'class_count': 317, 'num_students_in_class': 318, 'last_updated': '2021-11-08T16:47:47Z'}
+2021-11-08 16:47:48,402 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:52,936 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:52,937 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:52,939 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 318, 'class_count': 322, 'num_students_in_class': 318, 'last_updated': '2021-11-08T16:47:52Z'}
+2021-11-08 16:47:53,396 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:47:57,888 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:47:57,889 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:47:57,890 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 323, 'class_count': 322, 'num_students_in_class': 323, 'last_updated': '2021-11-08T16:47:57Z'}
+2021-11-08 16:47:58,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:03,042 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:03,043 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:03,044 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 323, 'class_count': 327, 'num_students_in_class': 323, 'last_updated': '2021-11-08T16:48:03Z'}
+2021-11-08 16:48:03,412 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:07,935 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:07,935 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:07,939 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 327, 'class_count': 327, 'num_students_in_class': 327, 'last_updated': '2021-11-08T16:48:07Z'}
+2021-11-08 16:48:08,399 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:12,936 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:12,937 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:12,938 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 327, 'class_count': 332, 'num_students_in_class': 327, 'last_updated': '2021-11-08T16:48:12Z'}
+2021-11-08 16:48:13,406 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:17,897 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:17,899 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:17,901 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 330, 'class_count': 332, 'num_students_in_class': 330, 'last_updated': '2021-11-08T16:48:17Z'}
+2021-11-08 16:48:18,399 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:22,901 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:22,903 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:22,904 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 330, 'class_count': 337, 'num_students_in_class': 330, 'last_updated': '2021-11-08T16:48:22Z'}
+2021-11-08 16:48:23,412 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:27,919 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:27,920 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:27,922 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 331, 'class_count': 337, 'num_students_in_class': 331, 'last_updated': '2021-11-08T16:48:27Z'}
+2021-11-08 16:48:28,404 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:32,910 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:32,911 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:32,912 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 331, 'class_count': 342, 'num_students_in_class': 331, 'last_updated': '2021-11-08T16:48:32Z'}
+2021-11-08 16:48:33,396 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:37,925 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:37,926 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:37,928 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 331, 'class_count': 342, 'num_students_in_class': 331, 'last_updated': '2021-11-08T16:48:37Z'}
+2021-11-08 16:48:38,397 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:42,930 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:42,931 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:42,933 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 331, 'class_count': 347, 'num_students_in_class': 331, 'last_updated': '2021-11-08T16:48:42Z'}
+2021-11-08 16:48:43,396 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:47,928 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:47,929 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:47,930 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 331, 'class_count': 347, 'num_students_in_class': 331, 'last_updated': '2021-11-08T16:48:47Z'}
+2021-11-08 16:48:48,402 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:52,916 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:52,917 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:52,918 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 332, 'class_count': 352, 'num_students_in_class': 332, 'last_updated': '2021-11-08T16:48:52Z'}
+2021-11-08 16:48:53,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:48:57,966 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:48:57,966 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:48:57,967 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 332, 'class_count': 353, 'num_students_in_class': 332, 'last_updated': '2021-11-08T16:48:57Z'}
+2021-11-08 16:48:58,401 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:02,926 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:02,926 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:02,928 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:02Z'}
+2021-11-08 16:49:03,405 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:07,924 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:07,925 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:07,926 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:07Z'}
+2021-11-08 16:49:08,400 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:12,909 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:12,909 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:12,911 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:12Z'}
+2021-11-08 16:49:13,409 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:17,947 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:17,947 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:17,948 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:17Z'}
+2021-11-08 16:49:18,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:22,933 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:22,934 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:22,935 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:22Z'}
+2021-11-08 16:49:23,421 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:28,144 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:28,145 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:28,146 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:28Z'}
+2021-11-08 16:49:28,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:29,556 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:32,996 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:32,997 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:32,998 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:32Z'}
+2021-11-08 16:49:33,407 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:34,216 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:34,216 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:34,218 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:34Z'}
+2021-11-08 16:49:34,562 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:37,921 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:37,922 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:37,925 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:37Z'}
+2021-11-08 16:49:38,404 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:39,380 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:39,380 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:39,382 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:39Z'}
+2021-11-08 16:49:39,555 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:42,921 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:42,921 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:42,922 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:42Z'}
+2021-11-08 16:49:43,400 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:44,082 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:44,083 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:44,084 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:44Z'}
+2021-11-08 16:49:44,555 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:47,938 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:47,938 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:47,939 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:47Z'}
+2021-11-08 16:49:48,406 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:49,136 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:49,137 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:49,138 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:49Z'}
+2021-11-08 16:49:49,561 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:52,929 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:52,930 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:52,931 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:52Z'}
+2021-11-08 16:49:53,414 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:54,049 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:54,050 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:54,051 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:54Z'}
+2021-11-08 16:49:54,578 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:57,897 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:57,898 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:57,901 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:57Z'}
+2021-11-08 16:49:58,408 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:49:59,081 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:49:59,083 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:49:59,086 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:49:59Z'}
+2021-11-08 16:49:59,555 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:02,885 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:02,886 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:02,887 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:02Z'}
+2021-11-08 16:50:03,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:04,049 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:04,052 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:04,054 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:04Z'}
+2021-11-08 16:50:04,553 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:07,910 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:07,910 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:07,911 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:07Z'}
+2021-11-08 16:50:08,405 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:09,067 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:09,068 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:09,069 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:09Z'}
+2021-11-08 16:50:09,565 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:12,903 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:12,904 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:12,906 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:12Z'}
+2021-11-08 16:50:13,410 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:14,056 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:14,058 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:14,059 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:14Z'}
+2021-11-08 16:50:14,551 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:17,926 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:17,926 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:17,929 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:17Z'}
+2021-11-08 16:50:18,417 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:19,047 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:19,048 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:19,049 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:19Z'}
+2021-11-08 16:50:19,546 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:22,923 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:22,923 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:22,925 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:22Z'}
+2021-11-08 16:50:23,397 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:24,059 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:24,060 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:24,064 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:24Z'}
+2021-11-08 16:50:24,555 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:27,905 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:27,906 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:27,907 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:27Z'}
+2021-11-08 16:50:28,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:29,075 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:29,076 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:29,079 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:29Z'}
+2021-11-08 16:50:29,572 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:32,906 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:32,907 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:32,908 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:32Z'}
+2021-11-08 16:50:33,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:34,096 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:34,096 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:34,097 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:34Z'}
+2021-11-08 16:50:34,556 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:38,103 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:38,104 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:38,105 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:38Z'}
+2021-11-08 16:50:38,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:39,143 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:39,144 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:39,145 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:39Z'}
+2021-11-08 16:50:39,554 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:42,916 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:42,917 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:42,918 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:42Z'}
+2021-11-08 16:50:43,411 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:44,072 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:44,073 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:44,074 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:44Z'}
+2021-11-08 16:50:44,568 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:47,910 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:47,911 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:47,912 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:47Z'}
+2021-11-08 16:50:48,419 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:49,085 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:49,086 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:49,088 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:49Z'}
+2021-11-08 16:50:49,558 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:53,017 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:53,017 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:53,018 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:53Z'}
+2021-11-08 16:50:53,401 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:54,042 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:54,044 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:54,046 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:54Z'}
+2021-11-08 16:50:54,557 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:57,942 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:57,943 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:57,945 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:57Z'}
+2021-11-08 16:50:58,399 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:50:59,051 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:50:59,052 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:50:59,053 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:50:59Z'}
+2021-11-08 16:50:59,556 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:02,928 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:02,929 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:02,931 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:02Z'}
+2021-11-08 16:51:03,407 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:04,082 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:04,083 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:04,085 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:04Z'}
+2021-11-08 16:51:04,565 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:07,922 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:07,923 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:07,924 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:07Z'}
+2021-11-08 16:51:08,402 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:09,097 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:09,098 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:09,099 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:09Z'}
+2021-11-08 16:51:09,560 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:12,902 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:12,902 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:12,903 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:12Z'}
+2021-11-08 16:51:13,400 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:14,117 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:14,118 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:14,120 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:14Z'}
+2021-11-08 16:51:14,556 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:17,925 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:17,926 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:17,926 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:17Z'}
+2021-11-08 16:51:18,405 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:19,049 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:19,050 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:19,051 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:19Z'}
+2021-11-08 16:51:19,562 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:22,919 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:22,920 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:22,921 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:22Z'}
+2021-11-08 16:51:23,399 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:24,080 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:24,081 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:24,082 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:24Z'}
+2021-11-08 16:51:24,553 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:27,926 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:27,928 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:27,930 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:27Z'}
+2021-11-08 16:51:28,408 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:29,064 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:29,065 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:29,066 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:29Z'}
+2021-11-08 16:51:29,569 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:32,942 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:32,944 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:32,946 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:32Z'}
+2021-11-08 16:51:33,401 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:34,080 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:34,081 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:34,082 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:34Z'}
+2021-11-08 16:51:34,559 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:37,911 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:37,912 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:37,914 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:37Z'}
+2021-11-08 16:51:38,410 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:39,063 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:39,064 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:39,065 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:39Z'}
+2021-11-08 16:51:39,569 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:43,029 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:43,030 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:43,031 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:43Z'}
+2021-11-08 16:51:43,399 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:44,400 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:44,401 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:44,403 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:44Z'}
+2021-11-08 16:51:44,555 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:47,928 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:47,929 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:47,931 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:47Z'}
+2021-11-08 16:51:48,401 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:49,081 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:49,082 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:49,083 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:49Z'}
+2021-11-08 16:51:49,561 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:52,896 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:52,897 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:52,898 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:52Z'}
+2021-11-08 16:51:53,406 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:54,053 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:54,054 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:54,055 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:54Z'}
+2021-11-08 16:51:54,551 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:57,916 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:57,916 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:57,917 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:57Z'}
+2021-11-08 16:51:58,409 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:51:59,059 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:51:59,060 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:51:59,061 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:51:59Z'}
+2021-11-08 16:51:59,550 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:02,929 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:52:02,931 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:52:02,933 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:52:02Z'}
+2021-11-08 16:52:03,398 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:04,091 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:52:04,091 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:52:04,093 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:52:04Z'}
+2021-11-08 16:52:04,557 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:07,932 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:52:07,934 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:52:07,936 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:52:07Z'}
+2021-11-08 16:52:08,403 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:09,048 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:52:09,049 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:52:09,050 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 0, 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:52:09Z'}
+2021-11-08 16:52:09,562 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:14,553 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:19,565 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:24,552 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:29,556 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:34,554 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:39,566 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:52:44,549 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:56:52,952 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:56:54,716 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:56:58,287 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:56:58,288 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:56:58,288 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 334, 'class_count': 353, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:56:58Z'}
+2021-11-08 16:56:59,250 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:56:59,251 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:56:59,256 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 334, 'class_count': 356, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:56:59Z'}
+2021-11-08 16:56:59,710 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:02,976 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:04,238 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:04,239 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:04,240 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 334, 'class_count': 358, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:57:04Z'}
+2021-11-08 16:57:04,711 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:07,493 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:07,494 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:07,497 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 339, 'class_count': 358, 'num_students_in_class': 339, 'last_updated': '2021-11-08T16:57:07Z'}
+2021-11-08 16:57:07,960 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:09,294 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:09,295 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:09,299 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 334, 'class_count': 362, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:57:09Z'}
+2021-11-08 16:57:09,724 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:12,465 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:12,467 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:12,470 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 339, 'class_count': 363, 'num_students_in_class': 339, 'last_updated': '2021-11-08T16:57:12Z'}
+2021-11-08 16:57:12,965 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:14,233 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:14,234 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:14,235 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 334, 'class_count': 363, 'num_students_in_class': 334, 'last_updated': '2021-11-08T16:57:14Z'}
+2021-11-08 16:57:14,711 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:17,589 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:17,590 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:17,591 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 344, 'class_count': 363, 'num_students_in_class': 344, 'last_updated': '2021-11-08T16:57:17Z'}
+2021-11-08 16:57:17,953 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:19,257 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:19,257 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:19,259 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 335, 'class_count': 365, 'num_students_in_class': 335, 'last_updated': '2021-11-08T16:57:19Z'}
+2021-11-08 16:57:19,722 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:22,480 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:22,480 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:22,483 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 344, 'class_count': 368, 'num_students_in_class': 344, 'last_updated': '2021-11-08T16:57:22Z'}
+2021-11-08 16:57:22,958 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:24,225 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:24,226 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:24,230 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 335, 'class_count': 368, 'num_students_in_class': 335, 'last_updated': '2021-11-08T16:57:24Z'}
+2021-11-08 16:57:24,713 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:27,470 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:27,471 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:27,474 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 349, 'class_count': 368, 'num_students_in_class': 349, 'last_updated': '2021-11-08T16:57:27Z'}
+2021-11-08 16:57:27,962 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:29,249 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:29,250 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:29,250 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 338, 'class_count': 370, 'num_students_in_class': 338, 'last_updated': '2021-11-08T16:57:29Z'}
+2021-11-08 16:57:29,720 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:32,474 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:32,476 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:32,479 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 349, 'class_count': 373, 'num_students_in_class': 349, 'last_updated': '2021-11-08T16:57:32Z'}
+2021-11-08 16:57:32,951 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:34,212 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:34,213 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:34,218 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 338, 'class_count': 373, 'num_students_in_class': 338, 'last_updated': '2021-11-08T16:57:34Z'}
+2021-11-08 16:57:34,712 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:37,483 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:37,484 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:37,485 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 353, 'class_count': 373, 'num_students_in_class': 353, 'last_updated': '2021-11-08T16:57:37Z'}
+2021-11-08 16:57:37,955 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:39,211 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:39,212 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:39,213 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 342, 'class_count': 373, 'num_students_in_class': 342, 'last_updated': '2021-11-08T16:57:39Z'}
+2021-11-08 16:57:39,719 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:42,451 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:42,452 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:42,457 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 353, 'class_count': 378, 'num_students_in_class': 353, 'last_updated': '2021-11-08T16:57:42Z'}
+2021-11-08 16:57:42,947 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:44,207 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:44,208 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:44,209 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 342, 'class_count': 378, 'num_students_in_class': 342, 'last_updated': '2021-11-08T16:57:44Z'}
+2021-11-08 16:57:44,708 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:47,453 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:47,454 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:47,456 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 356, 'class_count': 378, 'num_students_in_class': 356, 'last_updated': '2021-11-08T16:57:47Z'}
+2021-11-08 16:57:47,959 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:49,237 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:49,238 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:49,240 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 347, 'class_count': 378, 'num_students_in_class': 347, 'last_updated': '2021-11-08T16:57:49Z'}
+2021-11-08 16:57:49,724 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:52,467 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:52,468 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:52,469 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 356, 'class_count': 381, 'num_students_in_class': 356, 'last_updated': '2021-11-08T16:57:52Z'}
+2021-11-08 16:57:52,975 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:54,270 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:54,271 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:54,272 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 347, 'class_count': 381, 'num_students_in_class': 347, 'last_updated': '2021-11-08T16:57:54Z'}
+2021-11-08 16:57:54,714 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:57,516 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:57,516 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:57,517 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 381, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:57:57Z'}
+2021-11-08 16:57:57,974 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:57:59,233 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:57:59,233 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:57:59,234 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 350, 'class_count': 381, 'num_students_in_class': 350, 'last_updated': '2021-11-08T16:57:59Z'}
+2021-11-08 16:57:59,721 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:02,505 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:02,506 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:02,507 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 384, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:58:02Z'}
+2021-11-08 16:58:02,964 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:04,209 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:04,210 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:04,212 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 350, 'class_count': 384, 'num_students_in_class': 350, 'last_updated': '2021-11-08T16:58:04Z'}
+2021-11-08 16:58:04,713 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:07,482 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:07,482 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:07,483 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 384, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:58:07Z'}
+2021-11-08 16:58:07,953 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:09,254 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:09,255 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:09,256 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 353, 'class_count': 384, 'num_students_in_class': 353, 'last_updated': '2021-11-08T16:58:09Z'}
+2021-11-08 16:58:09,717 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:12,455 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:12,457 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:12,458 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 387, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:58:12Z'}
+2021-11-08 16:58:12,956 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:14,242 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:14,243 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:14,245 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 355, 'class_count': 387, 'num_students_in_class': 355, 'last_updated': '2021-11-08T16:58:14Z'}
+2021-11-08 16:58:14,711 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:17,490 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:17,491 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:17,492 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 389, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:58:17Z'}
+2021-11-08 16:58:17,950 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:19,261 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:19,261 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:19,262 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 358, 'class_count': 389, 'num_students_in_class': 358, 'last_updated': '2021-11-08T16:58:19Z'}
+2021-11-08 16:58:32,776 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:37,597 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:38,049 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:38,050 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:42,121 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:42,121 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:42,612 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:42,789 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:47,111 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:47,112 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:47,604 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:47,657 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:47,657 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:47,792 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:52,120 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:52,121 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:52,289 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:52,290 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:52,599 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:52,789 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:57,147 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:57,148 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:57,323 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:58:57,324 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:58:57,604 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:58:57,789 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:59:02,103 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:02,104 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:02,295 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:02,295 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:02,613 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:59:02,785 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:59:07,131 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:07,132 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:07,284 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:07,285 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:07,594 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:59:07,795 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 16:59:12,103 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:12,104 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:12,321 -basicLogger -INFO -Successfully received student info
+2021-11-08 16:59:12,322 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 16:59:12,783 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:30,543 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:35,535 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:36,193 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:36,194 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:36,195 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 372, 'class_count': 402, 'num_students_in_class': 372, 'last_updated': '2021-11-08T17:09:36Z'}
+2021-11-08 17:09:40,054 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:40,055 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:40,056 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 372, 'class_count': 402, 'num_students_in_class': 372, 'last_updated': '2021-11-08T17:09:40Z'}
+2021-11-08 17:09:40,549 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:40,566 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:45,061 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:45,061 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:45,062 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 372, 'class_count': 407, 'num_students_in_class': 372, 'last_updated': '2021-11-08T17:09:45Z'}
+2021-11-08 17:09:45,418 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:45,419 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:45,420 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 372, 'class_count': 407, 'num_students_in_class': 372, 'last_updated': '2021-11-08T17:09:45Z'}
+2021-11-08 17:09:45,536 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:45,552 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:50,048 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:50,049 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:50,051 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 377, 'class_count': 407, 'num_students_in_class': 377, 'last_updated': '2021-11-08T17:09:50Z'}
+2021-11-08 17:09:50,105 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:50,106 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:50,107 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 377, 'class_count': 407, 'num_students_in_class': 377, 'last_updated': '2021-11-08T17:09:50Z'}
+2021-11-08 17:09:50,544 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:50,568 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:55,068 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:55,069 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:55,070 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 377, 'class_count': 412, 'num_students_in_class': 377, 'last_updated': '2021-11-08T17:09:55Z'}
+2021-11-08 17:09:55,078 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:09:55,079 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:09:55,080 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 377, 'class_count': 412, 'num_students_in_class': 377, 'last_updated': '2021-11-08T17:09:55Z'}
+2021-11-08 17:09:55,537 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:09:55,552 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:00,064 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:00,065 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:00,066 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 382, 'class_count': 412, 'num_students_in_class': 382, 'last_updated': '2021-11-08T17:10:00Z'}
+2021-11-08 17:10:00,080 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:00,081 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:00,082 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 382, 'class_count': 412, 'num_students_in_class': 382, 'last_updated': '2021-11-08T17:10:00Z'}
+2021-11-08 17:10:00,538 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:00,559 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:05,055 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:05,055 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:05,056 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:05,056 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:05,057 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 382, 'class_count': 417, 'num_students_in_class': 382, 'last_updated': '2021-11-08T17:10:05Z'}
+2021-11-08 17:10:05,058 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 382, 'class_count': 417, 'num_students_in_class': 382, 'last_updated': '2021-11-08T17:10:05Z'}
+2021-11-08 17:10:05,552 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:05,573 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:10,074 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:10,075 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:10,075 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:10,076 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:10,076 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 387, 'class_count': 417, 'num_students_in_class': 387, 'last_updated': '2021-11-08T17:10:10Z'}
+2021-11-08 17:10:10,077 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 387, 'class_count': 417, 'num_students_in_class': 387, 'last_updated': '2021-11-08T17:10:10Z'}
+2021-11-08 17:10:10,548 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:10,564 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:15,084 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:15,085 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:15,086 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 387, 'class_count': 422, 'num_students_in_class': 387, 'last_updated': '2021-11-08T17:10:15Z'}
+2021-11-08 17:10:15,095 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:15,097 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:15,100 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 387, 'class_count': 422, 'num_students_in_class': 387, 'last_updated': '2021-11-08T17:10:15Z'}
+2021-11-08 17:10:15,535 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:15,552 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:20,539 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:20,554 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:25,915 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:25,916 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:25,917 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 393, 'class_count': 427, 'num_students_in_class': 393, 'last_updated': '2021-11-08T17:10:25Z'}
+2021-11-08 17:10:25,983 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:25,984 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:25,985 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 393, 'class_count': 427, 'num_students_in_class': 393, 'last_updated': '2021-11-08T17:10:25Z'}
+2021-11-08 17:10:33,622 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:36,007 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:38,225 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:38,226 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:38,230 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 398, 'class_count': 432, 'num_students_in_class': 398, 'last_updated': '2021-11-08T17:10:38Z'}
+2021-11-08 17:10:38,621 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:40,693 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:40,694 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:40,696 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 400, 'class_count': 432, 'num_students_in_class': 400, 'last_updated': '2021-11-08T17:10:40Z'}
+2021-11-08 17:10:41,008 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:43,116 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:43,116 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:43,117 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 433, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:10:43Z'}
+2021-11-08 17:10:43,625 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:45,508 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:45,509 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:45,511 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 400, 'class_count': 437, 'num_students_in_class': 400, 'last_updated': '2021-11-08T17:10:45Z'}
+2021-11-08 17:10:45,997 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:48,126 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:48,126 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:48,129 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 436, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:10:48Z'}
+2021-11-08 17:10:48,611 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:50,507 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:50,508 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:50,511 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 437, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:10:50Z'}
+2021-11-08 17:10:50,999 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:53,157 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:53,157 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:53,159 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 405, 'class_count': 436, 'num_students_in_class': 405, 'last_updated': '2021-11-08T17:10:53Z'}
+2021-11-08 17:10:53,617 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:55,502 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:55,503 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:55,505 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 442, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:10:55Z'}
+2021-11-08 17:10:56,004 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:10:58,102 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:10:58,103 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:10:58,104 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 405, 'class_count': 440, 'num_students_in_class': 405, 'last_updated': '2021-11-08T17:10:58Z'}
+2021-11-08 17:10:58,616 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:00,517 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:11:00,517 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:11:00,518 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 442, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:11:00Z'}
+2021-11-08 17:11:01,021 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:03,116 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:11:03,117 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:11:03,118 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 410, 'class_count': 440, 'num_students_in_class': 410, 'last_updated': '2021-11-08T17:11:03Z'}
+2021-11-08 17:11:03,623 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:05,533 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:11:05,533 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:11:05,536 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 401, 'class_count': 447, 'num_students_in_class': 401, 'last_updated': '2021-11-08T17:11:05Z'}
+2021-11-08 17:11:06,016 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:08,126 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:11:08,127 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:11:08,132 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 410, 'class_count': 445, 'num_students_in_class': 410, 'last_updated': '2021-11-08T17:11:08Z'}
+2021-11-08 17:11:08,620 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:13,616 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:18,622 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:23,622 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:28,628 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:11:33,618 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:14:15,395 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:14:20,411 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:14:23,342 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:14:26,419 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:14:26,422 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:14:28,231 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:14:28,232 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:14:41,693 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 452, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:14:41Z'}
+2021-11-08 17:14:43,388 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:15:05,717 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 452, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:15:05Z'}
+2021-11-08 17:15:06,075 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:18,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:23,768 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:23,769 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:23,769 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 452, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:23Z'}
+2021-11-08 17:16:24,169 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:28,500 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:28,687 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:28,688 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:28,689 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 454, 'class_count': 457, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:28Z'}
+2021-11-08 17:16:29,160 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:33,022 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:33,023 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:33,024 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 454, 'class_count': 457, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:33Z'}
+2021-11-08 17:16:33,509 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:33,674 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:33,676 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:33,677 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 456, 'class_count': 457, 'num_students_in_class': 456, 'last_updated': '2021-11-08T17:16:33Z'}
+2021-11-08 17:16:34,166 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:38,024 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:38,025 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:38,027 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 454, 'class_count': 462, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:38Z'}
+2021-11-08 17:16:38,500 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:38,702 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:38,704 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:38,705 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 456, 'class_count': 462, 'num_students_in_class': 456, 'last_updated': '2021-11-08T17:16:38Z'}
+2021-11-08 17:16:39,172 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:43,038 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:43,038 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:43,040 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 462, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:43Z'}
+2021-11-08 17:16:43,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:43,706 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:43,707 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:43,709 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 457, 'class_count': 462, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:16:43Z'}
+2021-11-08 17:16:44,167 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:48,015 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:48,016 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:48,017 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 454, 'class_count': 467, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:48Z'}
+2021-11-08 17:16:48,511 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:48,671 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:48,672 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:48,674 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 457, 'class_count': 467, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:16:48Z'}
+2021-11-08 17:16:49,188 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:53,038 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:53,039 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:53,040 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 467, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:53Z'}
+2021-11-08 17:16:53,514 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:53,678 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:53,679 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:53,680 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 457, 'class_count': 467, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:16:53Z'}
+2021-11-08 17:16:54,179 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:58,037 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:58,037 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:58,038 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 454, 'class_count': 471, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:16:58Z'}
+2021-11-08 17:16:58,501 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:16:58,682 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:16:58,684 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:16:58,686 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 457, 'class_count': 472, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:16:58Z'}
+2021-11-08 17:16:59,160 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:03,008 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:03,008 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:03,009 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 454, 'class_count': 471, 'num_students_in_class': 454, 'last_updated': '2021-11-08T17:17:03Z'}
+2021-11-08 17:17:03,499 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:03,706 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:03,708 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:03,712 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 457, 'class_count': 472, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:17:03Z'}
+2021-11-08 17:17:04,162 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:08,042 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:08,043 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:08,044 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 455, 'class_count': 474, 'num_students_in_class': 455, 'last_updated': '2021-11-08T17:17:08Z'}
+2021-11-08 17:17:08,505 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:08,676 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:08,678 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:08,681 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 458, 'class_count': 477, 'num_students_in_class': 458, 'last_updated': '2021-11-08T17:17:08Z'}
+2021-11-08 17:17:09,163 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:13,018 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:13,019 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:13,020 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 455, 'class_count': 475, 'num_students_in_class': 455, 'last_updated': '2021-11-08T17:17:13Z'}
+2021-11-08 17:17:13,513 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:13,688 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:13,692 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:13,696 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 458, 'class_count': 478, 'num_students_in_class': 458, 'last_updated': '2021-11-08T17:17:13Z'}
+2021-11-08 17:17:14,167 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:18,134 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:18,134 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:18,136 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 457, 'class_count': 476, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:17:18Z'}
+2021-11-08 17:17:18,497 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:18,684 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:18,685 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:18,689 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 460, 'class_count': 481, 'num_students_in_class': 460, 'last_updated': '2021-11-08T17:17:18Z'}
+2021-11-08 17:17:19,158 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:23,117 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:23,118 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:23,120 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 457, 'class_count': 479, 'num_students_in_class': 457, 'last_updated': '2021-11-08T17:17:23Z'}
+2021-11-08 17:17:23,495 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:23,683 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:23,684 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:23,691 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 460, 'class_count': 484, 'num_students_in_class': 460, 'last_updated': '2021-11-08T17:17:23Z'}
+2021-11-08 17:17:24,169 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:28,014 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:28,014 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:28,015 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 460, 'class_count': 479, 'num_students_in_class': 460, 'last_updated': '2021-11-08T17:17:28Z'}
+2021-11-08 17:17:28,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:28,722 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:28,725 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:28,729 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 463, 'class_count': 486, 'num_students_in_class': 463, 'last_updated': '2021-11-08T17:17:28Z'}
+2021-11-08 17:17:29,156 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:33,025 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:33,025 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:33,027 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 460, 'class_count': 483, 'num_students_in_class': 460, 'last_updated': '2021-11-08T17:17:33Z'}
+2021-11-08 17:17:33,503 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:33,677 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:33,678 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:33,679 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 463, 'class_count': 490, 'num_students_in_class': 463, 'last_updated': '2021-11-08T17:17:33Z'}
+2021-11-08 17:17:34,165 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:38,016 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:38,017 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:38,018 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 465, 'class_count': 483, 'num_students_in_class': 465, 'last_updated': '2021-11-08T17:17:38Z'}
+2021-11-08 17:17:38,511 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:38,671 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:38,674 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:38,681 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 468, 'class_count': 491, 'num_students_in_class': 468, 'last_updated': '2021-11-08T17:17:38Z'}
+2021-11-08 17:17:39,179 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:43,035 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:43,036 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:43,037 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 465, 'class_count': 488, 'num_students_in_class': 465, 'last_updated': '2021-11-08T17:17:43Z'}
+2021-11-08 17:17:43,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:43,686 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:43,688 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:43,691 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 468, 'class_count': 496, 'num_students_in_class': 468, 'last_updated': '2021-11-08T17:17:43Z'}
+2021-11-08 17:17:44,161 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:48,026 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:48,027 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:48,030 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 470, 'class_count': 488, 'num_students_in_class': 470, 'last_updated': '2021-11-08T17:17:48Z'}
+2021-11-08 17:17:48,509 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:48,702 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:48,704 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:48,707 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 473, 'class_count': 496, 'num_students_in_class': 473, 'last_updated': '2021-11-08T17:17:48Z'}
+2021-11-08 17:17:49,166 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:53,016 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:53,017 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:53,018 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 470, 'class_count': 493, 'num_students_in_class': 470, 'last_updated': '2021-11-08T17:17:53Z'}
+2021-11-08 17:17:53,507 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:53,689 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:53,690 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:53,692 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 473, 'class_count': 501, 'num_students_in_class': 473, 'last_updated': '2021-11-08T17:17:53Z'}
+2021-11-08 17:17:54,181 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:58,046 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:58,047 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:58,048 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 475, 'class_count': 493, 'num_students_in_class': 475, 'last_updated': '2021-11-08T17:17:58Z'}
+2021-11-08 17:17:58,512 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:17:58,679 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:17:58,680 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:17:58,682 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 478, 'class_count': 501, 'num_students_in_class': 478, 'last_updated': '2021-11-08T17:17:58Z'}
+2021-11-08 17:17:59,170 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:03,047 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:03,047 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:03,049 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 475, 'class_count': 498, 'num_students_in_class': 475, 'last_updated': '2021-11-08T17:18:03Z'}
+2021-11-08 17:18:03,494 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:03,686 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:03,687 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:03,689 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 478, 'class_count': 506, 'num_students_in_class': 478, 'last_updated': '2021-11-08T17:18:03Z'}
+2021-11-08 17:18:04,168 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:08,020 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:08,021 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:08,023 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:08Z'}
+2021-11-08 17:18:08,504 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:08,667 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:08,668 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:08,670 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:08Z'}
+2021-11-08 17:18:09,164 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:13,023 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:13,024 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:13,025 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:13Z'}
+2021-11-08 17:18:13,513 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:13,676 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:13,678 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:13,679 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:13Z'}
+2021-11-08 17:18:14,175 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:18,026 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:18,026 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:18,027 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:18Z'}
+2021-11-08 17:18:18,497 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:18,712 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:18,714 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:18,718 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:18Z'}
+2021-11-08 17:18:19,157 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:23,140 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:23,141 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:23,143 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:23Z'}
+2021-11-08 17:18:23,500 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:23,681 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:23,683 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:23,686 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:23Z'}
+2021-11-08 17:18:24,160 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:28,248 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:28,249 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:28,250 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:28Z'}
+2021-11-08 17:18:28,497 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:28,716 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:28,719 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:28,721 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:28Z'}
+2021-11-08 17:18:29,169 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:33,002 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:33,002 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:33,003 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:33Z'}
+2021-11-08 17:18:33,509 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:33,700 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:33,704 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:33,707 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:33Z'}
+2021-11-08 17:18:34,167 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:38,016 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:38,016 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:38,017 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:38Z'}
+2021-11-08 17:18:38,514 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:38,678 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:38,679 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:38,680 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:38Z'}
+2021-11-08 17:18:39,158 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:43,010 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:43,010 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:43,012 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:43Z'}
+2021-11-08 17:18:43,497 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:43,666 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:43,669 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:43,676 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:43Z'}
+2021-11-08 17:18:44,177 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:48,032 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:48,032 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:48,033 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:48Z'}
+2021-11-08 17:18:48,500 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:48,709 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:48,710 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:48,712 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:48Z'}
+2021-11-08 17:18:49,176 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:53,010 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:53,011 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:53,013 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:53Z'}
+2021-11-08 17:18:53,494 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:53,674 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:53,675 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:53,677 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:53Z'}
+2021-11-08 17:18:54,172 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:58,019 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:58,019 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:58,022 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:18:58Z'}
+2021-11-08 17:18:58,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:18:58,704 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:18:58,705 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:18:58,708 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:18:58Z'}
+2021-11-08 17:18:59,162 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:03,066 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:03,067 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:03,072 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:03Z'}
+2021-11-08 17:19:03,495 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:03,655 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:03,657 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:03,659 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:03Z'}
+2021-11-08 17:19:04,184 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:08,014 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:08,014 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:08,017 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:08Z'}
+2021-11-08 17:19:08,503 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:08,686 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:08,688 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:08,691 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:08Z'}
+2021-11-08 17:19:09,185 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:12,994 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:12,995 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:12,997 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:12Z'}
+2021-11-08 17:19:13,502 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:13,713 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:13,714 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:13,716 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:13Z'}
+2021-11-08 17:19:14,170 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:17,979 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:17,980 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:17,982 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:17Z'}
+2021-11-08 17:19:18,510 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:18,670 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:18,671 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:18,673 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:18Z'}
+2021-11-08 17:19:19,179 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:23,044 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:23,044 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:23,046 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:23Z'}
+2021-11-08 17:19:23,501 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:23,688 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:23,690 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:23,691 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:23Z'}
+2021-11-08 17:19:24,175 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:28,028 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:28,029 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:28,030 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:28Z'}
+2021-11-08 17:19:28,510 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:28,673 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:28,676 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:28,679 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:28Z'}
+2021-11-08 17:19:29,168 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:33,099 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:33,100 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:33,101 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:33Z'}
+2021-11-08 17:19:33,511 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:33,716 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:33,719 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:33,723 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:33Z'}
+2021-11-08 17:19:34,167 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:38,017 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:38,017 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:38,019 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 480, 'class_count': 498, 'num_students_in_class': 480, 'last_updated': '2021-11-08T17:19:38Z'}
+2021-11-08 17:19:38,729 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:38,730 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:38,732 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'None', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:38Z'}
+2021-11-08 17:19:39,154 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:52,264 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:57,072 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:19:57,551 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:19:57,551 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:19:57,553 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 483, 'class_count': 506, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:19:57Z'}
+2021-11-08 17:20:01,610 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:01,610 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:01,611 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 483, 'class_count': 511, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:20:01Z'}
+2021-11-08 17:20:02,066 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:02,260 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:06,557 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:06,557 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:06,558 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 483, 'class_count': 512, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:20:06Z'}
+2021-11-08 17:20:07,079 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:07,180 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:07,181 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:07,183 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 484, 'class_count': 512, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:07Z'}
+2021-11-08 17:20:07,268 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:11,593 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:11,594 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:11,595 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 483, 'class_count': 517, 'num_students_in_class': 483, 'last_updated': '2021-11-08T17:20:11Z'}
+2021-11-08 17:20:11,856 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:11,857 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:11,859 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 484, 'class_count': 517, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:11Z'}
+2021-11-08 17:20:12,066 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:12,265 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:16,593 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:16,593 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:16,594 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 484, 'class_count': 517, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:16Z'}
+2021-11-08 17:20:16,816 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:16,817 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:16,819 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': '', 'student_count': 484, 'class_count': 517, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:16Z'}
+2021-11-08 17:20:17,082 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:17,274 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:21,615 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:21,616 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:21,617 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 484, 'class_count': 522, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:21Z'}
+2021-11-08 17:20:21,790 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:21,803 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:21,805 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 484, 'class_count': 522, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:21Z'}
+2021-11-08 17:20:22,074 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:22,262 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:26,590 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:26,590 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:26,592 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 484, 'class_count': 523, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:26Z'}
+2021-11-08 17:20:26,763 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:26,764 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:26,765 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration', 'student_count': 484, 'class_count': 523, 'num_students_in_class': 484, 'last_updated': '2021-11-08T17:20:26Z'}
+2021-11-08 17:20:27,071 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:27,257 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:31,577 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:31,578 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:31,579 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 486, 'class_count': 527, 'num_students_in_class': 486, 'last_updated': '2021-11-08T17:20:31Z'}
+2021-11-08 17:20:31,779 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:31,781 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:31,783 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 486, 'class_count': 527, 'num_students_in_class': 486, 'last_updated': '2021-11-08T17:20:31Z'}
+2021-11-08 17:20:32,077 -basicLogger -INFO -Start Periodic Processing
+2021-11-08 17:20:36,620 -basicLogger -INFO -Successfully received student info
+2021-11-08 17:20:36,621 -basicLogger -INFO -Successfully received data on cit information.
+2021-11-08 17:20:36,622 -basicLogger -DEBUG -Successfully saved the new stats: {'most_popular_cit_class': 'Enterprise System Integration2', 'student_count': 486, 'class_count': 529, 'num_students_in_class': 486, 'last_updated': '2021-11-08T17:20:36Z'}
