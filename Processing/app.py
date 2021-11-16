@@ -39,6 +39,8 @@ def populate_stats():
             f.write(json.dumps({"most_popular_cit_class": "Service Based Architecture", "student_count": 0,"class_count": 0,"num_students_in_class": 0,"last_updated": "2016-08-29T09:12:33Z"}))
     
 
+    current_date = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%dT%H:%M:%SZ")
+
     student_req = requests.get(app_config['get_student_url']['url']+stats['last_updated'])
     cit_req = requests.get(app_config['get_cit_url']['url']+stats['last_updated'])
     
@@ -50,10 +52,12 @@ def populate_stats():
         logger.error("ERROR receiving data on cit info.")
     else:
         logger.info("Successfully received data on cit information.")
+
     student_data = json.loads(student_req.content)
     cit_data = json.loads(cit_req.content)
-
-
+    print("Hello student", student_data)
+    print("Hello cit", cit_data)
+    
     class_type_list = []
     most_class_type = ""
     student_len = len(student_data) + stats['student_count']
@@ -73,9 +77,8 @@ def populate_stats():
 
     for student in student_data:
         if len(student['student_name']) >0:
-            num_students_in_class += 1
+            num_students_in_class += 1 
 
-    current_date = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%dT%H:%M:%SZ")
 
     data_obj = {"most_popular_cit_class": most_class_type, "student_count": student_len,"class_count": cit_len,"num_students_in_class": num_students_in_class,"last_updated": current_date}
     with open(app_config['datastore']['filename'],'w') as file:
