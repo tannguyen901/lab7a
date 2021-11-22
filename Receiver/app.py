@@ -10,6 +10,7 @@ import uuid
 import datetime
 import json
 from pykafka import KafkaClient
+from time import sleep
 
 
 MAX_EVENTS = 12
