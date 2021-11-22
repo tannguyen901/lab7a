@@ -18,7 +18,6 @@ export default function AppStats() {
                 setIsLoaded(true);
             })
     }
-    
     useEffect(() => {
 		const interval = setInterval(() => getStats(), 2000); // Update every 2 seconds
 		return() => clearInterval(interval);
