@@ -19,9 +19,14 @@ paths:
       operationId: app.get_cit_course
       description: get cit course after it has been created
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
-          description: Limits the number of items on a page
+          description: Limits the number of items on a page for the start time
+          schema:
+            type: string
+        - name: end_timestamp
+          in: query
+          description: Limits the number of items on a page for the end time
           schema:
             type: string
       responses:
@@ -67,9 +72,14 @@ paths:
       operationId: app.get_students
       description: Gets student information after timestamp
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
-          description: Limits the number of items on a page
+          description: Limits the number of items on a page. Start time
+          schema:
+            type: string
+        - name: end_timestamp
+          in: query
+          description: Limits the number of items on a page. End time
           schema:
             type: string
       responses:

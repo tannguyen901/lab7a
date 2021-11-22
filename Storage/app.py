@@ -2,6 +2,7 @@ from datetime import datetime
 import connexion
 from connexion import NoContent
 
+from flask import Response
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from base import Base
@@ -15,6 +16,8 @@ import json
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
+from sqlalchemy import and_
+from time import sleep
 
 
 logger = logging.getLogger('basicLogger')
@@ -33,29 +36,37 @@ Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
 
-def get_students(timestamp):
+def get_students(start_timestamp, end_timestamp):
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    # timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    students = session.query(Student).filter(and_(Student.created_at >= start_timestamp_datetime,Student.created_at < end_timestamp_datetime))
 
-    students = session.query(Student).filter(Student.date_created >= timestamp_datetime)
+    # students = session.query(Student).filter(Student.date_created >= timestamp_datetime)
     results_list = []
     for student in students:
         results_list.append(student.to_dict())
     session.close()
-    logger.info("Query for student information after %s returns %d results" %(timestamp, len(results_list)))
-    return results_list, 200
+    logger.info("Query for student information after %s returns %d results" %(start_timestamp, len(results_list)))
+    return Response(response=json.dumps(results_list),status=200,headers={'Content-type': 'application/json'})
 
 
-def get_cit_course(timestamp):
+def get_cit_course(start_timestamp, end_timestamp):
     session = DB_SESSION()
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    CITs = session.query(Cit).filter(Cit.date_created >= timestamp_datetime)
+    # timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    # CITs = session.query(Cit).filter(Cit.date_created >= timestamp_datetime)
+
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    CITs = session.query(Cit).filter(and_(Cit.created_at >= start_timestamp_datetime,Cit.created_at < end_timestamp_datetime))
+
     results_list = []
     for cit in CITs:
         results_list.append(cit.to_dict())
     session.close()
-    logger.info("Query for CIT course after %s returns %d results" %(timestamp, len(results_list)))
-    return results_list, 200
+    logger.info("Query for CIT course after %s returns %d results" %(start_timestamp, len(results_list)))
+    return Response(response=json.dumps(results_list),status=200,headers={'Content-type': 'application/json'})
     
 
 def add_cit_course(body):
@@ -90,16 +101,26 @@ def add_student_info(body):
 
 def process_messages():
     """ Process event messages """
-    hostname = "%s:%d" % (app_config["events"]["hostname"],
-                          app_config["events"]["port"])
+    logger.info('Processing messages is beginning')
+    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
+    max_tries = int(app_config["events"]["max_tries"])
+    trying = 0
+    while trying < max_tries:
+        try:
+            logger.info('Connecting to Kafka. Tries: {}'.format(trying))
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(app_config["events"]["topic"])]
+            trying = max_tries
+        except:
+            trying += 1
+            logger.error("Could not connect to Kafka..")
+            sleep(2.5)
     client = KafkaClient(hosts=hostname)
     topic = client.topics[str.encode(app_config["events"]["topic"])]
     # Create a consume on a consumer group, that only reads new messages
     # (uncommitted messages) when the service re-starts (i.e., it doesn't
     # read all the old messages from the history in the message queue).
-    consumer = topic.get_simple_consumer(consumer_group=b'event_group',
-    reset_offset_on_start=False,
-    auto_offset_reset=OffsetType.LATEST)
+    consumer = topic.get_simple_consumer(consumer_group=b'event_group',reset_offset_on_start=False,auto_offset_reset=OffsetType.LATEST)
     # This is blocking - it will wait for a new message
     for msg in consumer:
         try:

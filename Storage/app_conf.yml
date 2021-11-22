@@ -10,3 +10,4 @@ events:
   hostname: tanlab6a.eastus.cloudapp.azure.com
   port: 9092
   topic: events
+  max_tries: 20

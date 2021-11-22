@@ -41,9 +41,12 @@ def populate_stats():
 
     current_date = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%dT%H:%M:%SZ")
 
-    student_req = requests.get(app_config['get_student_url']['url']+stats['last_updated'])
-    cit_req = requests.get(app_config['get_cit_url']['url']+stats['last_updated'])
-    
+    student_req = requests.get(app_config['get_student_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
+    cit_req = requests.get(app_config['get_cit_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
+    # gp_request = requests.get(app_config['get_group_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+now)
+    # mm_request = requests.get(app_config['get_member_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+now)
+
+
     if student_req.status_code != 200:
         logger.error("ERROR receiving data for student.")
     else:
