@@ -32,7 +32,7 @@ while num_tries < max_tries:
         logger.info('Connecting to Kafka. Tries: {}'.format(max_tries))
         client = KafkaClient(hosts='{}:{}'.format(app_config['events']['hostname'],app_config['events']['port']))
         topic = client.topics[str.encode(app_config['events']['topic'])]
-        max_tries = max_tries
+        num_tries = max_tries
     except:
         num_tries += 1
         logger.error("Could not connect to Kafka..")
