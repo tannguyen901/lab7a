@@ -80,7 +80,7 @@ def add_cit_course(body):
 
 def add_student_info(body):
     # headers = {"content-type":"application/json"}
-    logger.info (f"Received event online_sales request with a unique id of {body['student_id']}")
+    logger.info (f"Received event student info request with a unique id of {body['student_id']}")
     #// response = requests.post(app_config['online_sales']['url'], json=body,  headers=headers)    ##LAB5
     #// logger.info(f"Returned event online_sales response(ID: {body['product_id']}) witt status {response.status_code}")
     #// return NoContent, response.status_code

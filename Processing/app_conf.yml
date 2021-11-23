@@ -4,6 +4,6 @@ datastore:
 scheduler:
   period_sec: 5
 get_student_url:
-  url: http://localhost:8090/programs/student?timestamp=
+  url: http://localhost:8090/programs/student
 get_cit_url:
-  url: http://localhost:8090/programs/cit?timestamp=
+  url: http://localhost:8090/programs/cit
