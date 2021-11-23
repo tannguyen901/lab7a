@@ -10,6 +10,7 @@ from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
 from flask_cors import CORS, cross_origin
+import os
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
