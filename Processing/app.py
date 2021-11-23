@@ -5,6 +5,17 @@ import json
 import requests, yaml, logging, logging.config, uuid, datetime
 from apscheduler.schedulers.background import BackgroundScheduler
 from flask_cors import CORS, cross_origin
+import os
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
+
 
 with open ('app_conf.yml', 'r') as f:
     app_config= yaml.safe_load(f.read())
@@ -14,7 +25,8 @@ with open('log_conf.yml','r') as f:
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
-
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
 
 def get_stats():
     logger.info(f'Received event get_stats request {uuid.uuid4}')
@@ -43,8 +55,6 @@ def populate_stats():
 
     student_req = requests.get(app_config['get_student_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
     cit_req = requests.get(app_config['get_cit_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
-    # gp_request = requests.get(app_config['get_group_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+now)
-    # mm_request = requests.get(app_config['get_member_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+now)
 
 
     if student_req.status_code != 200:

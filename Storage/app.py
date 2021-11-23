@@ -18,9 +18,22 @@ from pykafka.common import OffsetType
 from threading import Thread
 from sqlalchemy import and_
 from time import sleep
+import os
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
 
 
 logger = logging.getLogger('basicLogger')
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
+
 host = "tanlab6a.eastus.cloudapp.azure.com"
 with open ('app_conf.yml', 'r') as f:
     app_config= yaml.safe_load(f.read())

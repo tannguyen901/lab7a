@@ -11,6 +11,16 @@ import datetime
 import json
 from pykafka import KafkaClient
 from time import sleep
+import os
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
 
 
 MAX_EVENTS = 12
@@ -24,6 +34,8 @@ with open('log_conf.yml','r') as f:
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
 
 num_tries = 0
 max_tries = int(app_config['events']['max_tries'])
