@@ -32,6 +32,7 @@ while num_tries < max_tries:
         logger.info('Connecting to Kafka. Tries: {}'.format(max_tries))
         client = KafkaClient(hosts='{}:{}'.format(app_config['events']['hostname'],app_config['events']['port']))
         topic = client.topics[str.encode(app_config['events']['topic'])]
+        producer = topic.get_sync_producer()
         num_tries = max_tries
     except:
         num_tries += 1
@@ -63,11 +64,6 @@ def add_cit_course(body):
     #// response = requests.post(app_config['instore_sales']['url'], json=body)                 ##LAB5
     #// logger.info(f"Returned event instore_sales response(ID: {body['product_id']}) witt status {response.status_code}")
     #// return NoContent, response.status_code
-
-    client = KafkaClient(hosts=f'{app_config["events"]["hostname"]}:{app_config["events"]["port"]}') 
-    topic = client.topics[str.encode(app_config["events"]["topic"])] 
-    producer = topic.get_sync_producer()
-
     msg = { "type": "cit",   #event type #! DOUBLE CHECK IF IT NOT WORK
         "datetime" : datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body }  
@@ -88,10 +84,6 @@ def add_student_info(body):
     #// response = requests.post(app_config['online_sales']['url'], json=body,  headers=headers)    ##LAB5
     #// logger.info(f"Returned event online_sales response(ID: {body['product_id']}) witt status {response.status_code}")
     #// return NoContent, response.status_code
-    client = KafkaClient(hosts=f'{app_config["events"]["hostname"]}:{app_config["events"]["port"]}') 
-    topic = client.topics[str.encode(app_config["events"]["topic"])] 
-    producer = topic.get_sync_producer()
-
     msg = { "type": "student",   #event type
         "datetime" : datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body }  
