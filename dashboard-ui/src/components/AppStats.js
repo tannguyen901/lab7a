@@ -7,7 +7,8 @@ export default function AppStats() {
     const [error, setError] = useState(null)
     console.log(stats)
 	const getStats = () => {
-        fetch(`http://tanlab6a.eastus.cloudapp.azure.com:8100/stats`)
+        // fetch(`http://tanlab6a.eastus.cloudapp.azure.com:8100/stats`)
+        fetch(`http://tanlab6a.eastus.cloudapp.azure.com/processing/stats`)
             .then(res => res.json())
             .then((result)=>{
 				console.log("Received Stats")
