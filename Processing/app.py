@@ -53,8 +53,8 @@ def populate_stats():
 
     current_date = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%dT%H:%M:%SZ")
 
-    student_req = requests.get(app_config['get_student_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
-    cit_req = requests.get(app_config['get_cit_url']['url']+"?start_timestamp="+stats['last_updated']+"&end_timestamp="+current_date)
+    student_req = requests.get(app_config['get_student_url']['url']+"?start_timestamp="+stats['last_updated']+"&?end_timestamp="+current_date)
+    cit_req = requests.get(app_config['get_cit_url']['url']+"?start_timestamp="+stats['last_updated']+"&?end_timestamp="+current_date)
 
 
     if student_req.status_code != 200:
