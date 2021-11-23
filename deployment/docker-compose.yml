@@ -15,6 +15,10 @@ services:
       - "8080:8080"
     depends_on:
       - "kafka"
+    environment:
+    - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/receiver:/config
   storage:
     build: ../Storage
     image: storage:latest
@@ -22,12 +26,20 @@ services:
       - "8090:8090"
     depends_on:
       - "kafka"
+    environment:
+    - TARGET_ENV=test
+    volumes:
+    - /home/azureuser/config/storage:/config
   processing:
     build: ../Processing
     image: processing:latest
     network_mode: host
     depends_on:
-    - "storage"
+      - "storage"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/processing:/config
   audit_log:
     build: ../audit_log
     image: audit_log:latest
@@ -35,6 +47,10 @@ services:
       - "8110:8110"
     depends_on:
     - "kafka"
+    environment:
+    - TARGET_ENV=test
+    volumes:
+    - /home/azureuser/config/audit_log:/config
   zookeeper:
     image: wurstmeister/zookeeper
     ports:
