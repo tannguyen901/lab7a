@@ -41,7 +41,7 @@ def get_students(start_timestamp, end_timestamp):
     # timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    students = session.query(Student).filter(and_(Student.created_at >= start_timestamp_datetime,Student.created_at < end_timestamp_datetime))
+    students = session.query(Student).filter(and_(Student.date_created >= start_timestamp_datetime,Student.date_created < end_timestamp_datetime))
 
     # students = session.query(Student).filter(Student.date_created >= timestamp_datetime)
     results_list = []
@@ -59,7 +59,7 @@ def get_cit_course(start_timestamp, end_timestamp):
 
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    CITs = session.query(Cit).filter(and_(Cit.created_at >= start_timestamp_datetime,Cit.created_at < end_timestamp_datetime))
+    CITs = session.query(Cit).filter(and_(Cit.date_created >= start_timestamp_datetime,Cit.date_created < end_timestamp_datetime))
 
     results_list = []
     for cit in CITs:
