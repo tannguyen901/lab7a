@@ -67,7 +67,7 @@ def get_students(start_timestamp, end_timestamp):
 
 def get_cit_course(start_timestamp, end_timestamp):
     session = DB_SESSION()
-    # timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    # timestamp_datetime = datetime.d:q:q!atetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
     # CITs = session.query(Cit).filter(Cit.date_created >= timestamp_datetime)
 
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
@@ -157,9 +157,7 @@ def process_messages():
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yaml", 
-            strict_validation=True, 
-            validate_responses=True)
+app.add_api("openapi.yaml", base_path="/Storage", strict_validation=True, validate_responses=True)
 
 
 if __name__ == "__main__":

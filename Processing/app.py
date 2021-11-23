@@ -102,12 +102,12 @@ def init_scheduler():
     sched.add_job(populate_stats, 'interval', seconds=app_config['scheduler']['period_sec'])
     sched.start()
 
+
 app = connexion.FlaskApp(__name__, specification_dir='')
-CORS(app.app)
-app.app.config['CORS_HEADERS'] = 'Content-Type'
-app.add_api("openapi.yaml", 
-            strict_validation=True, 
-            validate_responses=True)
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type'
+app.add_api("openapi.yaml", base_path="/Processing", strict_validation=True, validate_responses=True)
 
 
 if __name__ == "__main__":

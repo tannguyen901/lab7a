@@ -4,6 +4,8 @@ datastore:
 scheduler:
   period_sec: 5
 get_student_url:
-  url: http://localhost:8090/programs/student
+  # url: http://localhost:8090/programs/student
+  url: http://tanlab6a.eastus.cloudapp.azure.com/Storage/programs/students
 get_cit_url:
-  url: http://localhost:8090/programs/cit
+  # url: http://localhost:8090/programs/cit
+  url: http://tanlab6a.eastus.cloudapp.azure.com/Storage/programs/cit

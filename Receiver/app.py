@@ -104,9 +104,7 @@ def add_student_info(body):
     return NoContent, 200 #! You will need to hard-code your status code to 201 since you will no longer get it from the response of the requests.post call
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yaml", 
-            strict_validation=True, 
-            validate_responses=True)
+app.add_api("openapi.yaml", base_path="/Receiver", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     app.run(port=8080)

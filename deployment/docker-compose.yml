@@ -1,18 +1,39 @@
 version: '3.3'
 services:
+  nginx:
+    image: nginx:latest
+    # Connects the conf file of the container to the conf file in our folder
+    volumes:
+      - /home/azureuser/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    # It will start up the nginx only when all api containers have started
+    depends_on:
+      - "receiver"
+      - "storage"
+      - "processing"
+      - "audit_log"
+      - "dashboard-ui"
+    # Connects the port 80 of the nginx container to localhost:80 or localhost
+    ports:
+      - "80:80"
+    networks:
+      - "api.network"
   dashboard:
     build: ../dashboard-ui
     image: dashboard:latest
     ports:
-      - "3000:3000"
+      - "3000"
     depends_on:
       - "processing"
       - "audit_log"
+    networks:
+      - "api.network"
   receiver:
     build: ../Receiver
     image: receiver:latest
     ports:
-      - "8080:8080"
+      - "8080"
+    networks:
+      - "api.network"
     depends_on:
       - "kafka"
     environment:
@@ -24,7 +45,9 @@ services:
     build: ../Storage
     image: storage:latest
     ports:
-      - "8090:8090"
+      - "8090"
+    networks:
+      - "api.network"
     depends_on:
       - "kafka"
     environment:
@@ -35,7 +58,10 @@ services:
   processing:
     build: ../Processing
     image: processing:latest
-    network_mode: host
+    ports:
+      - "8100"
+    networks:
+      - "api.network"
     depends_on:
       - "storage"
     environment:
@@ -48,7 +74,9 @@ services:
     build: ../audit_log
     image: audit_log:latest
     ports:
-      - "8110:8110"
+      - "8110"
+    networks:
+      - "api.network"
     depends_on:
     - "kafka"
     environment:
@@ -108,3 +136,5 @@ services:
 volumes:
   my-db:
   processing-db:
+networks:
+  api.network:
